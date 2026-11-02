@@ -84,7 +84,12 @@ AI 产品研究 · Agent 与 Skills · 交互创作 · 中文写作
 
 我在公众号 **天琴LyraX** 记录 AI 产品、技术与创作相关的思考。
 
-[DeepSeek 这套新架构，把 Agent 的“聊天框”彻底拆了](https://mp.weixin.qq.com/s/vsU_FOaKF6AV80KqGMbpTw) · 打开文章后，可点击顶部公众号名称查看更多内容。
+- **Agent 架构** · [DeepSeek 这套新架构，把 Agent 的“聊天框”彻底拆了](https://mp.weixin.qq.com/s/vsU_FOaKF6AV80KqGMbpTw) — 从多个对话窗口的协作问题切入，讨论 Agent 架构。
+- **产品观察** · [国内做 Personal Agent，Today 选择从哪里开始？](https://github.com/DarkHummingbird/tianqin-lyrax-articles/blob/main/%E5%9B%BD%E5%86%85%E5%81%9A%20Personal%20Agent%EF%BC%8CToday%20%E9%80%89%E6%8B%A9%E4%BB%8E%E5%93%AA%E9%87%8C%E5%BC%80%E5%A7%8B%EF%BC%9F.md) — 从用户为什么需要另一个 AI 助理出发，观察产品切入点。
+- **模型与体验** · [Gemini 又拿了第一，可这一次大多数人还用不了](https://github.com/DarkHummingbird/tianqin-lyrax-articles/blob/main/Gemini%20%E5%8F%88%E6%8B%BF%E4%BA%86%E7%AC%AC%E4%B8%80%EF%BC%8C%E5%8F%AF%E8%BF%99%E4%B8%80%E6%AC%A1%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E8%BF%98%E7%94%A8%E4%B8%8D%E4%BA%86.md) — 关注模型排名与实际可用性之间的距离。
+- **技术与现实** · [一个 PHP 漏洞，为什么会牵动政府网站？](https://github.com/DarkHummingbird/tianqin-lyrax-articles/blob/main/%E4%B8%80%E4%B8%AA%20PHP%20%E6%BC%8F%E6%B4%9E%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E7%89%B5%E5%8A%A8%E6%94%BF%E5%BA%9C%E7%BD%91%E7%AB%99%EF%BC%9F.md) — 从网站下线事件理解软件依赖带来的影响。
+
+[浏览全部文章 →](https://github.com/DarkHummingbird/tianqin-lyrax-articles)（文章仓库目前为私有，仅获授权的账号可访问；第一篇可通过公众号链接阅读。）
 
 ---
 

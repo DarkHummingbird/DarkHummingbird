@@ -78,6 +78,8 @@ AI 产品研究 · Agent 与 Skills · 交互创作 · 中文写作
 
 ## 文档
 
+- [AI 产品学习笔记](https://github.com/DarkHummingbird/ai-product-learning-notes)：AI 产品、Agent 与工作流相关的笔记、练习和表格。仓库目前为私有，仅获授权的账号可访问。
+
 ## 文章与公众号
 
 我在公众号 **天琴LyraX** 记录 AI 产品、技术与创作相关的思考。

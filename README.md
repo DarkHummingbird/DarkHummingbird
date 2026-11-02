@@ -84,11 +84,11 @@ AI 产品与 Agent · 可复用 Skills · 交互式 Web · 公众号写作
 
 ## 文章与公众号
 
-我也在公众号记录和分享自己的思考。
+我在公众号 **天琴LyraX** 记录和分享自己的思考。
 
-| 阅读入口 | 平台 |
+| 文章 | 平台 / 标签 |
 | --- | --- |
-| [阅读我的公众号文章](https://mp.weixin.qq.com/s/vsU_FOaKF6AV80KqGMbpTw) | 微信公众号 |
+| [DeepSeek 这套新架构，把 Agent 的“聊天框”彻底拆了](https://mp.weixin.qq.com/s/vsU_FOaKF6AV80KqGMbpTw) | 天琴LyraX · `DeepSeek` `Agent` `AI 架构` |
 
 > 进入文章后，可点击顶部公众号名称查看公众号主页与更多内容。
 

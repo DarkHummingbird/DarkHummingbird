@@ -6,7 +6,7 @@
 
 评测体系 · Agent 工作流 · AIGC 内容生产
 
-[邮箱](mailto:1194867321@qq.com) · [简历 PDF](./resume.pdf) · [个人网站](https://darkhummingbird.github.io/) · [公众号：天琴LyraX](https://mp.weixin.qq.com/s/vsU_FOaKF6AV80KqGMbpTw)
+[邮箱](mailto:1194867321@qq.com) · [个人网站](https://darkhummingbird.github.io/) · [公众号：天琴LyraX](https://mp.weixin.qq.com/s/vsU_FOaKF6AV80KqGMbpTw)
 
 </div>
 

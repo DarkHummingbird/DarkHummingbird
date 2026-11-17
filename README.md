@@ -1,22 +1,20 @@
 <div align="center">
 
-# Hi, I'm DarkHummingbird 👋
+# 贾东霖 · Jia Donglin
 
-**从真实任务出发，研究 AI 产品，把方法变成可以使用的工具与作品。**
+**AI 产品经理** ｜ 计算机技术硕士（2026 届）｜ Agent 开发
 
-AI 产品研究 · Agent 与 Skills · 交互创作 · 中文写作
+评测体系 · Agent 工作流 · AIGC 内容生产
 
-[关于我](#关于我) · [精选作品](#精选作品) · [Skills](#skills) · [网站](#网站) · [文档](#文档)
+[邮箱](mailto:1194867321@qq.com) · [简历 PDF](./resume.pdf) · [个人网站](https://darkhummingbird.github.io/) · [公众号：天琴LyraX](https://mp.weixin.qq.com/s/vsU_FOaKF6AV80KqGMbpTw)
 
 </div>
 
 ## 关于我
 
-我关注 AI 产品与 Agent，喜欢从真实任务出发理解产品如何被使用、背后的工作流程如何运转，以及哪些问题值得继续探索。
+计算机技术硕士，方向是 AI 产品。在爱奇艺做过海外 AIGC 短剧创作平台的产品建设，主责评测体系与模型选型；之后独立做了两个 Agent 产品。
 
-我把分析、写作和学习中反复使用的方法整理成 Skills，也通过文章与交互作品分享实践。
-
-**观察与体验 → 整理方法 → 制作与分享**
+我判断 AI 产品的门槛不在"能不能生成"，而在**生成是否可控、结论是否可信、流程是否可交付**。
 
 ## 精选作品
 
@@ -24,73 +22,65 @@ AI 产品研究 · Agent 与 Skills · 交互创作 · 中文写作
 <tr>
 <td width="50%" valign="top">
 
-**🔍 [AI 产品拆解](https://github.com/DarkHummingbird/ai-product-teardown)**
+**🎬 引幕 InReel** · 爱奇艺
 
-从真实任务和产品体验出发，梳理定位、用户流程、Agent 架构与模型成本，形成可追溯的分析报告。
+海外 AIGC 短剧创作与生产平台。主责评测体系与模型选型：搭建 24 条场景评测集，推动单条样片周期 12→7 天、任务通过率 66%→85%。
 
-`产品研究` · `Agent` · `Skill`
+`AIGC` `模型评测` `工作项目`
+
+代码属公司资产，[复刻版](https://github.com/DarkHummingbird/visual-creation-studio) 是我按同一条产品链路独立实现的。
 
 </td>
 <td width="50%" valign="top">
 
-**✍️ [公众号写作](https://github.com/DarkHummingbird/wechat-writing)**
+**🎮 [一录即玩](https://github.com/DarkHummingbird/replay-game-studio)** · Replay Game Studio
 
-面向 AI 与科技内容的中文写作工作流，涵盖选题、切入角度、结构与成稿。
+把游戏录屏或一句文字描述变成能玩的游戏：抽帧识别玩法 → 两关试玩 → 确认后扩关。macOS 桌面端，接入 5 种模型连接方式。
 
-`中文写作` · `内容研究` · `Skill`
+`Agent 工作流` `TypeScript` `开源`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📚 [课程笔记整理](https://github.com/DarkHummingbird/course-notes-skill)**
+**🔭 科研星舰** · Research Agent
 
-将课堂录音、转写与课件整理成可独立阅读的中文笔记，结合课件截图与检查脚本。
+面向长期课题的科研 Personal Agent：结论绑定原文证据、课题记忆跨会话留存、资料更新联动复核。
 
-`知识整理` · `Python` · `Skill`
-
-</td>
-<td width="50%" valign="top">
-
-**🚂 [星穹铁道 · 银河漫游](https://darkhummingbird.github.io/star-rail-galactic-journal/)**
-
-面向 PC 的电影式互动旅程，包含列车、同行者、世界漫游和旅途相册。非官方创意展示。
-
-`Web 交互` · `GSAP` · [项目源码](https://github.com/DarkHummingbird/star-rail-galactic-journal)
+`RAG` `Personal Agent` `源码整理中`
 
 </td>
 </tr>
+<!-- 以后要加第 4 张卡：在「科研星舰」那张卡的 </td> 后面、</tr> 前面再放一个
+<td width="50%" valign="top"> … </td>，同一行两个单元格即可；
+现在第四格是空的，加完就自动变成 2×2。
+-->
 </table>
 
 ## Skills
 
-将研究、写作和学习过程整理成可复用的工作流：
+把反复使用的分析方法整理成可复用的工作流：
 
-- [AI 产品拆解](https://github.com/DarkHummingbird/ai-product-teardown)：从体验、资料到产品与 Agent 分析。
-- [公众号写作](https://github.com/DarkHummingbird/wechat-writing)：从选题和素材到中文长文。
-- [课程笔记整理](https://github.com/DarkHummingbird/course-notes-skill)：将课堂材料整理为独立阅读的笔记。
+- [**AI 产品拆解**](https://github.com/DarkHummingbird/ai-product-teardown)：从真实体验出发，拆定位、Agent 架构与模型成本。
+- [**课程笔记整理**](https://github.com/DarkHummingbird/course-notes-skill)：课堂录音与课件 → 可独立阅读的中文笔记。
+- [**公众号写作**](https://github.com/DarkHummingbird/wechat-writing)：选题、角度、结构到成稿的写作流程。
 
 ## 网站
 
 - [个人网站](https://darkhummingbird.github.io/)：作品、个人介绍与随笔。
-- [星穹铁道 · 银河漫游](https://darkhummingbird.github.io/star-rail-galactic-journal/)：非官方互动作品，建议使用电脑体验。
-
-## 文档
-
-- [AI 产品学习笔记](https://github.com/DarkHummingbird/ai-product-learning-notes)：AI 产品、Agent 与工作流相关的笔记、练习和表格。仓库目前为私有，仅获授权的账号可访问。
+- [星穹铁道 · 银河漫游](https://darkhummingbird.github.io/star-rail-galactic-journal/)：PC 端电影式互动展示页，建议用电脑打开。
 
 ## 文章与公众号
 
-我在公众号 **天琴LyraX** 记录 AI 产品、技术与创作相关的思考。
+在公众号 **天琴LyraX** 记录 AI 产品、Agent 与模型使用的观察：
 
-- **Agent 架构** · [DeepSeek 这套新架构，把 Agent 的“聊天框”彻底拆了](https://mp.weixin.qq.com/s/vsU_FOaKF6AV80KqGMbpTw) — 从多个对话窗口的协作问题切入，讨论 Agent 架构。
-- **产品观察** · [国内做 Personal Agent，Today 选择从哪里开始？](https://github.com/DarkHummingbird/tianqin-lyrax-articles/blob/main/%E5%9B%BD%E5%86%85%E5%81%9A%20Personal%20Agent%EF%BC%8CToday%20%E9%80%89%E6%8B%A9%E4%BB%8E%E5%93%AA%E9%87%8C%E5%BC%80%E5%A7%8B%EF%BC%9F.md) — 从用户为什么需要另一个 AI 助理出发，观察产品切入点。
-- **模型与体验** · [Gemini 又拿了第一，可这一次大多数人还用不了](https://github.com/DarkHummingbird/tianqin-lyrax-articles/blob/main/Gemini%20%E5%8F%88%E6%8B%BF%E4%BA%86%E7%AC%AC%E4%B8%80%EF%BC%8C%E5%8F%AF%E8%BF%99%E4%B8%80%E6%AC%A1%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E8%BF%98%E7%94%A8%E4%B8%8D%E4%BA%86.md) — 关注模型排名与实际可用性之间的距离。
-- **技术与现实** · [一个 PHP 漏洞，为什么会牵动政府网站？](https://github.com/DarkHummingbird/tianqin-lyrax-articles/blob/main/%E4%B8%80%E4%B8%AA%20PHP%20%E6%BC%8F%E6%B4%9E%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E7%89%B5%E5%8A%A8%E6%94%BF%E5%BA%9C%E7%BD%91%E7%AB%99%EF%BC%9F.md) — 从网站下线事件理解软件依赖带来的影响。
+- [DeepSeek 这套新架构，把 Agent 的"聊天框"彻底拆了](https://mp.weixin.qq.com/s/vsU_FOaKF6AV80KqGMbpTw) — 从多窗口协作的问题切入 Agent 架构
+- 国内做 Personal Agent，Today 选择从哪里开始？ — 从"为什么还需要一个 AI 助理"看产品切入点
+- Gemini 又拿了第一，可这一次大多数人还用不了 — 模型排名与实际可用性之间的距离
 
-[浏览全部文章 →](https://github.com/DarkHummingbird/tianqin-lyrax-articles)（文章仓库目前为私有，仅获授权的账号可访问；第一篇可通过公众号链接阅读。）
+## 联系我
 
----
+邮箱 [1194867321@qq.com](mailto:1194867321@qq.com) ｜ 求职方向：AI 产品经理（AIGC / Agent）
 
-[浏览全部公开仓库 →](https://github.com/DarkHummingbird?tab=repositories)
+*这个仓库是我的个人主页源码，项目都在旁边的仓库里。*

@@ -12,7 +12,7 @@
 
 ## 关于我
 
-计算机技术硕士，方向是 AI 产品。在爱奇艺做过海外 AIGC 短剧创作平台的产品建设，主责评测体系与模型选型；之后独立做了两个 Agent 产品。
+计算机技术硕士，方向是 AI 产品。在爱奇艺做过海外 AIGC 短剧创作平台的产品建设，主责评测体系与模型选型；之后独立做了三个 Agent 产品。
 
 我判断 AI 产品的门槛不在"能不能生成"，而在**生成是否可控、结论是否可信、流程是否可交付**。
 
@@ -22,13 +22,13 @@
 <tr>
 <td width="50%" valign="top">
 
-**🎬 引幕 InReel** · 爱奇艺
+**🎬 [引幕 InReel](https://github.com/DarkHummingbird/inreel-short-film-workbench)** · 爱奇艺
 
 海外 AIGC 短剧创作与生产平台。主责评测体系与模型选型：搭建 24 条场景评测集，推动单条样片周期 12→7 天、任务通过率 66%→85%。
 
 `AIGC` `模型评测` `工作项目`
 
-代码属公司资产，[复刻版](https://github.com/DarkHummingbird/visual-creation-studio) 是我按同一条产品链路独立实现的。
+公司代码不公开，标题链接是我按 PRD 自己重做的《短片制作台》。
 
 </td>
 <td width="50%" valign="top">
@@ -44,18 +44,26 @@
 <tr>
 <td width="50%" valign="top">
 
-**🔭 科研星舰** · Research Agent
+**🔭 [科研星舰](https://github.com/DarkHummingbird/research-starship)** · Research Agent
 
 面向长期课题的科研 Personal Agent：结论绑定原文证据、课题记忆跨会话留存、资料更新联动复核。
 
-`RAG` `Personal Agent` `源码整理中`
+`RAG` `Personal Agent` `开源`
+
+</td>
+<td width="50%" valign="top">
+
+**📖 [续章工坊](https://github.com/DarkHummingbird/novelflow-studio)** · NovelFlow Studio
+
+商业短故事的「付费卡点续写」工作台：丢进卡点前的正文，产出带商业结构的完结稿。4 个 Agent 分工，六道门禁由确定性代码判定，模型只负责写、不给自己打分。
+
+`多 Agent` `TypeScript` `在线试用`
+
+→ [在线试用](https://darkhummingbird.github.io/novelflow-studio/)
 
 </td>
 </tr>
-<!-- 以后要加第 4 张卡：在「科研星舰」那张卡的 </td> 后面、</tr> 前面再放一个
-<td width="50%" valign="top"> … </td>，同一行两个单元格即可；
-现在第四格是空的，加完就自动变成 2×2。
--->
+
 </table>
 
 ## Skills

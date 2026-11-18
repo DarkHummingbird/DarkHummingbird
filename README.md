@@ -44,11 +44,11 @@
 <tr>
 <td width="50%" valign="top">
 
-**🔭 [科研星舰](https://github.com/DarkHummingbird/research-starship)** · Research Agent
+**🔭 [科研星舰](https://github.com/DarkHummingbird/research-starship)** · Research Workbench
 
-面向长期课题的科研 Personal Agent：结论绑定原文证据、课题记忆跨会话留存、资料更新联动复核。
+面向长期课题的科研工作台：围绕"导入—审核—检索—回答—写作—复核"构建完整研究闭环。资料必须人工确认后才进入正式知识库，每条结论绑定资料版本、章节与原文片段，证据不足时不作答；支持跨文献综合、写作辅助、定时提醒与三级保密外发审批，让 AI 生成始终可核验、可回溯。
 
-`RAG` `Personal Agent` `开源`
+`RAG` `AI Work` `开源`
 
 </td>
 <td width="50%" valign="top">

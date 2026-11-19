@@ -55,11 +55,9 @@
 
 **📖 [续章工坊](https://github.com/DarkHummingbird/novelflow-studio)** · NovelFlow Studio
 
-商业短故事的「付费卡点续写」工作台：丢进卡点前的正文，产出带商业结构的完结稿。4 个 Agent 分工，六道门禁由确定性代码判定，模型只负责写、不给自己打分。
+面向小说读者的续写工具：上传小说滚动录屏，经 OCR 识别并人工确认前文，再分析主线、人物与矛盾，生成衔接原文的续章。支持 DeepSeek、Gemini 模型配置，以及订阅和余额计费设计。
 
-`多 Agent` `TypeScript` `在线试用`
-
-→ [在线试用](https://darkhummingbird.github.io/novelflow-studio/)
+`AI 工作流` `视频 OCR` `TypeScript`
 
 </td>
 </tr>
